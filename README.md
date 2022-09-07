@@ -45,7 +45,11 @@ In other words, the company wants to understand the driving factors (or driver v
 
 Data Understanding
 
-Download the dataset and import the libraries. It contains the complete loan data for all loans issued through the time period 2007 t0 2011.
+Download the dataset in Jupyter Notebbok and import the libraries for python programming. 
+
+It contains the complete loan data for all loans issued through the time period 2007 t0 2011.
+
+Analyze the dataset containing information about past loan applicants using EDA to understand how consumer attributes and loan attributes influence the tendency of default
 
 The analysis is divided into four main parts:
  Data sourcing
